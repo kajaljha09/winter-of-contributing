@@ -2,7 +2,7 @@
 
  A square matrix is called **lower triangular** if all the entries above the main diagonal are zero. 
  
- ![lower triangular](https://imgur.com/dNyIBpt.jpg)
+ ![lower-triangular](https://imgur.com/dNyIBpt.jpg)
 
  *ref :google images*
 
@@ -24,7 +24,7 @@
 ### **Row Major Mapping** :
 Mapping all the non-zero elements in an Array row wise,lets say A[].
 
-![row major](https://imgur.com/tLFJySY.jpg)
+![row-major](https://imgur.com/tLFJySY.jpg)
 
 **NOTE**: Here non-zero elements are present at:
 ```

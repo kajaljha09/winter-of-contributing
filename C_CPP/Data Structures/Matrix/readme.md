@@ -1,2 +1,2 @@
 * [Diagonal Matrix](./Diagonal_Matrix.md)
-* [Lower Triangular Matrix](./Lower_Triangular.md)
+* [Lower triangular Matrix](./Lower_Triangular.md)
